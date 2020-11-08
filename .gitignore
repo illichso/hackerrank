@@ -1,4 +1,6 @@
-.idea
+/.idea
+/target
+/out
 
 # Compiled class file
 *.class
